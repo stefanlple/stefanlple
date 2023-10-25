@@ -1,9 +1,9 @@
 ### Hello
 
 ⚡ Interests:
-Web development
-3D Applications 
-VR/AR
+  -Web development
+  -3D Applications 
+  -VR/AR
 <!--
 **stefanlple/stefanlple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
